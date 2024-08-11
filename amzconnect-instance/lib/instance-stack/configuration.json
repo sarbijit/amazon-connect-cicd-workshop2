@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "bijitlab",
-  "instanceStorageBucketName": "connect-Bijit",
+  "instanceAlias": "bijitlab2",
+  "instanceStorageBucketName": "connect-Bijit2",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
