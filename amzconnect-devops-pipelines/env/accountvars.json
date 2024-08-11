@@ -2,7 +2,7 @@
     "accounts": [
     {
         "env": "dev",
-        "branch": "develop",
+        "branch": "develop_new_1",
         "enabled": true,
         "account": "626238822062",
         "region": ["us-east-1"],
