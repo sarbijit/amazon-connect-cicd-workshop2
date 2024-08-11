@@ -1,6 +1,6 @@
 {
-  "instanceAlias": "myTestalias-aaazzz",
-  "instanceStorageBucketName": "connect-aaazzz",
+  "instanceAlias": "bijitlab2",
+  "instanceStorageBucketName": "connect-bijit2",
   "identityManagementType": "CONNECT_MANAGED",
   "instanceStorageConfig": [
     {
